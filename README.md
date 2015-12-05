@@ -1,1 +1,0 @@
-[![Build Status](https://magnum.travis-ci.com/UOL-CS/co2012-group-19-repo.svg?token=uyB9Bpm5822jKuR9BvZE&branch=master)](https://magnum.travis-ci.com/UOL-CS/co2012-group-19-repo)
